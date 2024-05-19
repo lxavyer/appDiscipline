@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">appDisciplinas</string>
+    <string name="curso">Desenvolvimento de Sistemas</string>
+    <string name="categoria">Categoria</string>
+    <string name="tipo">Tipo</string>
+    <string name="nota">Nota</string>
+    <string name="inserir_nota">Inserir Nota</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="concluir">Concluir</string>
+    <string name="sair">Sair</string>
+    <string-array name="modulos_array">
+        <item>Módulo 1</item>
+        <item>Módulo 2</item>
+        <item>Módulo 3</item>
+        <item>Módulo 4</item>
+    </string-array>
+</resources>
